@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="166" viewBox="0 0 900 166" role="img" aria-label="GitHub activity statistics">
+<rect x="0.5" y="0.5" width="899" height="165" rx="10" fill="#0d1117" stroke="#30363d"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<text x="22" y="31" font-size="16" font-weight="600" fill="#f0f6fc">GitHub activity · last 12 months</text>
+<text x="878" y="31" text-anchor="end" font-size="11" fill="#8b949e">generated from GitHub API</text>
+<text x="22" y="77" font-size="22" font-weight="700" fill="#58a6ff">—</text>
+<text x="22" y="96" font-size="11" fill="#8b949e">Contributions</text>
+<text x="322" y="77" font-size="22" font-weight="700" fill="#58a6ff">—</text>
+<text x="322" y="96" font-size="11" fill="#8b949e">Commits</text>
+<text x="622" y="77" font-size="22" font-weight="700" fill="#58a6ff">—</text>
+<text x="622" y="96" font-size="11" fill="#8b949e">Pull requests</text>
+<text x="22" y="132" font-size="22" font-weight="700" fill="#58a6ff">—</text>
+<text x="22" y="151" font-size="11" fill="#8b949e">Issues</text>
+<text x="322" y="132" font-size="22" font-weight="700" fill="#58a6ff">—</text>
+<text x="322" y="151" font-size="11" fill="#8b949e">Contributed to</text>
+<text x="622" y="132" font-size="22" font-weight="700" fill="#58a6ff">—</text>
+<text x="622" y="151" font-size="11" fill="#8b949e">Followers</text>
+</g>
+</svg>
